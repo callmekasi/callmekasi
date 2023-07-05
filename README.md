@@ -8,5 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sylnova&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sylnova&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sylnova&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🤣 MOTM (Meme of the Month)
+![hluiawb-optimize](https://github.com/sylnova/sylnova/assets/93147592/5db6796d-0a7e-4ffd-a52a-c811fc691aa7)
 
 [![](https://visitcount.itsvg.in/api?id=sylnova&icon=0&color=12)](https://visitcount.itsvg.in)
