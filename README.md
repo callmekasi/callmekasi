@@ -9,8 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sylnova&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sylnova&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-[<img src="[https://rm.up.railway.app/](https://media.tenor.com/XUD0K8qLJYsAAAAd/how-linux-users-install-a-web-browser-linux.gif)" width="512px"/>
-](https://media.tenor.com/XUD0K8qLJYsAAAAd/how-linux-users-install-a-web-browser-linux.gif)
----
 [![](https://visitcount.itsvg.in/api?id=sylnova&icon=0&color=12)](https://visitcount.itsvg.in)
