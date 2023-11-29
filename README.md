@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [nothing!](https://nothing.nowhere.nothing.com)
+- 🔭 I’m currently working on [Kasi-Files!](https://nothing.nowhere.nothing.com)
 
 - 🌱 I’m currently learning **C**
 
