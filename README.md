@@ -5,19 +5,19 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on [nothing...](https://nothing.nowhere.nothing.com)
+- 👯 I’m looking to collaborate on [nothing...](https://nothing.kasi.lol)
 
-- 🤝 I’m looking for help with [nothing.](https://nothing.nowhere.nothing.com)
+- 🤝 I’m looking for help with [nothing.](https://nothing.kasi.lol)
 
-- 👨‍💻 All of my projects are available at [https://nothing.nowhere.nothing.com](https://nothing.nowhere.nothing.com)
+- 👨‍💻 All of my projects are available at [kasi.lol](https://kasi.lol)
 
-- 📝 I regularly write articles on [https://nothing.nowhere.nothing.com](https://nothing.nowhere.nothing.com)
+- 📝 I regularly write articles on [nothing](https://nothing.kasi.lol)
 
-- 💬 Ask me about **nothing...?**
+- 💬 Ask me about [nothing](https://nothing.kasi.lol)
+  
+- 📫 How to reach me [discord at kasi.lol](https://kasi.lol)
 
-- 📫 How to reach me **@kasyi (discord)**
-
-- 📄 Know about my experiences [https://nothing.nowhere.nothing.com](https://nothing.nowhere.nothing.com)
+- 📄 Know about my experiences [kasi.lol](https://kasi.lol)
 
 - ⚡ Fun fact **i don't know.**
 
